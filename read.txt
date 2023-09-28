@@ -1,0 +1,9 @@
+To execute the project change directory
+
+1)Activate the virtual enviornment
+myenv\scripts\Activate
+
+2) After that execute
+streamlit run app.py
+
+
